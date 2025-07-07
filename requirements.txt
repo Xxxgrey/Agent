@@ -1,0 +1,8 @@
+akshare==1.17.5
+APScheduler==3.11.0
+beautifulsoup4==4.13.4
+langchain==0.3.26
+langchain_openai==0.3.25
+pandas==2.3.0
+PyYAML==6.0.2
+Requests==2.32.4
