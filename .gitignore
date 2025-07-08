@@ -1,0 +1,12 @@
+# 忽略所有 .pdf 文件
+*.pdf
+
+# 忽略 input/ 目录下所有内容
+input/
+
+# 忽略 markdown/ 下的 images 子目录
+markdown/images/
+
+# 忽略 __pycache__ 和 log 文件
+__pycache__/
+*.log
